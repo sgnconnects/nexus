@@ -7,5 +7,5 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/ugorji/go/codec v1.2.6
-	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
+	golang.org/x/crypto v0.1.0
 )
